@@ -1,0 +1,1 @@
+# libemoji-data
